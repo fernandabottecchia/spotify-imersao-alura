@@ -1,1 +1,1 @@
-Spotify landing page with HTML, CSS e JavaScript.
+Spotify landing page with HTML, CSS and JavaScript.
